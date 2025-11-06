@@ -218,7 +218,7 @@ El proyecto implementa una arquitectura en **3 capas**:
 **Código:** SV71593553
 **Curso:** Desarrollo de los Componentes del Negocio
 **Institución:** Idat
-**Fecha:** Noviembre 2024
+**Fecha:** 05 Noviembre 2024
 
 
 
@@ -263,4 +263,5 @@ Thumbs.db
 
 # Application
 application-*.properties
+
 !application.properties
